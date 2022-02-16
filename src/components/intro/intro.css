@@ -1,6 +1,7 @@
 .intro {
   display: flex;
   height: 100vh;
+  background-color: black;
 }
 
 .intro-left {
@@ -26,10 +27,12 @@
 .intro-intro {
   font-size: 30px;
   font-weight: 300;
+  color: white;
 }
 
 .intro-name {
   font-size: 60px;
+  color: white;
 }
 
 .intro-title {
@@ -82,4 +85,8 @@
   position: absolute;
   top: 0;
   right: 0;
+}
+
+.intro-desc {
+  color: white;
 }

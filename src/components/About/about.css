@@ -2,6 +2,7 @@
   height: 100vh;
   display: flex;
   align-items: center;
+  background-color: black;
 }
 
 .about-left {
@@ -37,12 +38,18 @@
 }
 .about-title {
   font-weight: 400;
+  color: white;
 }
 
 .about-desc p {
   font-weight: 300;
 }
 
+.desc-1 {
+  color: white;
+}
+
 .desc-2 {
   margin-top: 25px;
+  color: white;
 }
